@@ -17,3 +17,9 @@ end
 def using_shift
   
 end
+
+def shift_with_args
+
+end
+
+def 

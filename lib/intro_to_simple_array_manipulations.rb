@@ -11,11 +11,11 @@ def using_pop
 end
 
 def pop_with_args
-
+  
 end
 
-def using_shift
-  
+def using_shift(array)
+  array.shift
 end
 
 def shift_with_args(array)
